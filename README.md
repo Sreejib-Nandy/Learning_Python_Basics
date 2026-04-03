@@ -118,6 +118,6 @@ If you find this repository helpful, consider giving it a ⭐!
 ## 👨‍💻 Author
 
 **Sreejib Nandy**
-Aspiring Software Developer
+ -- Aspiring Software Developer
 
 ---
